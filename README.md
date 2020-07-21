@@ -1,10 +1,19 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aggmoulik.svg?style=social&label=Follow%20%40aggmoulik)](https://twitter.com/aggmoulik)
+[![Linkedin Badge](https://img.shields.io/badge/-aggmoulik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aggmoulik/)](https://www.linkedin.com/in/aggmoulik/)
+
+- I'm Moulik Aggarwal, 
+- Software Enginner, DeepSource 
+- Auth0 Ambassador
+
+[![Moulik's github stats](https://github-readme-stats.vercel.app/api?username=aggmoulik&show_icons=true)](https://github.com/aggmoulik)
 
 <!--
 **aggmoulik/aggmoulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
-
+[![Twitter](https://)]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
