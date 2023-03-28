@@ -12,10 +12,6 @@
   <img align="left" alt="Moulik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://deepsource.io/">
-    <img align="left" alt="DeepSource" width="22px" src="https://avatars3.githubusercontent.com/u/40287229?s=200&v=4" />
-</a>
-
 <br/>
 <br/>
 
